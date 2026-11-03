@@ -1,0 +1,7 @@
+Notas de control de calidad
+----------------------------
+
+- Verificar siempre la concentracion antes de continuar con la muestra.
+- Las muestras marcadas como tratamiento requieren doble comprobacion.
+- Cualquier valor de concentracion por debajo de 10 ng/uL debe repetirse.
+- Registrar la fecha y responsable de cada revision.

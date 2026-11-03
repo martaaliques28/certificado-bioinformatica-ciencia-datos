@@ -1,0 +1,146 @@
+    1  whoami
+    2  pwd
+    3  ls
+    4  ls -l
+    5  ls -a
+    6  ls -lh
+    7  pwd
+    8  ls
+    9  cal
+   10  cal2008
+   11  cal 2008
+   12  cal 1870
+   13  man ls
+   14  clean
+   15  man ls
+   16  history
+   17  whoami
+   18  pwd
+   19  pwd$
+   20  pwd
+   21  4/
+   22  ~~/
+   23  /
+   24  ~/
+   25  ls
+   26  ~/
+   27  cd fcb_material_practica1/
+   28  ls
+   29  ls-lh
+   30  ls-l
+   31  ls
+   32  ls -lh
+   33  ls -a
+   34  man ls
+   35  ls -a
+   36  man ls
+   37  history
+   38  ls -l
+   39  ls -la
+   40  ls -lhS
+   41  cd analisis_previos/
+   42  ls -lhS
+   43  cd
+   44  cd fcb_material_practica1/
+   45  ls
+   46  less README.txt 
+   47  history
+   48  touch
+   49  man touch
+   50  cd fcb_material_practica1/
+   51  cd datoscrudos
+   52  cd /home/fcb_alumno19/proyectobiotec/
+   53  ls proyectobiotec
+   54  history
+   55  ls
+   56  cd datoscrudos
+   57  cp -r /home/fcb_alumno19/fcb_material_practica1/datoscrudos
+   58  cp --help
+   59  cp -r /home/fcb_alumno19/fcb_material_practica1/
+   60  ls
+   61  cp -r /home/fcb_alumno19/fcb_material_practica1/
+   62  pwd
+   63  /home/fcb_alumno19/tema2/
+   64  less Pacifici_data.csv
+   65  cd /home/fcb_alumno19/tema2/
+   66  less
+   67  less Pacifici2013_data.csv 
+   68  head Pacifici2013_data.csv | cut -d ";" -f
+   69  head -n 1 Pacifici2013_data.csv | cut -d ";" -f 1-2
+   70  head Pacifici2013_data.csv | cut -d ";" -f 1-2
+   71  cut -d ";" -f 2,8 Pacifici2013_data.csv| head -n 3
+   72  cut -d "," -f 2,8 Pacifici2013_data.csv| head -n 3
+   73  cut -d ";" -f 2,8 Pacifici2013_data.csv| head -n 3
+   74  cut -d ";" -f 2 Pacifici2013_data.csv| sort | uniq 
+   75  cut -d ";" -f 2 Pacifici2013_data.csv| sort
+   76  q
+   77  cp Pacifici2013_data.csv 
+   78  cp Pacifici2013_data.csv CopiaPacifi2013_data.csv
+   79  man sort
+   80  cut -d ";" -f 2-8 Pacifici2013_data.csv| sort -n
+   81  cut -d ";" -f 2-6 Pacifici2013_data.csv| sort -n
+   82  cut -d ";" -f 2-6 Pacifici2013_data.csv| sort -n -k 6
+   83  cut -d ";" -f 2-6 Pacifici2013_data.csv| tr ";" " " sort -n -k 6
+   84  cut -d ";" -f 2-6 Pacifici2013_data.csv| tr ";" " "| sort -n -k 6
+   85  cut -d ";" -f 2-6 Pacifici2013_data.csv| tr ";" " "| sort -n -k 6 > Bodymass_file.csv
+   86  less
+   87  less Bodymass_file.csv 
+   88  /home/fcb_alumno19/fcb_material_practica1/
+   89  cd /home/fcb_alumno19/fcb_material_practica1/
+   90  ls -l
+   91  c
+   92  cd /home/fcb_alumno19/proyectobiotec/
+   93  cp -r fcb_material_practica1 datoscrudos/
+   94  cd /home/fcb_alumno19/
+   95  cd /home/fcb_alumno19/proyectobiotec/datoscrudos/
+   96  cp -r fcb_material_practica1
+   97  man cp
+   98  cp -r fcb_material_practica1 datoscrudos
+   99  cd /home/fcb_alumno19/proyectobiotec/
+  100  cp-
+  101  cp -r fcb_material_practica1 proyectobiotec
+  102  cp -r fcb_material_practica1 datoscrudos
+  103  ls
+  104  pwd
+  105  cp -r /home/fcb_alumno19/fcb_material_practica1/ datoscrudos/
+  106  less datoscrudos/
+  107  cd /home/fcb_alumno19/proyectobiotec/datoscrudos/
+  108  less
+  109  ls -l
+  110  cd /home/fcb_alumno19/proyectobiotec/datoscrudos/fcb_material_practica1/
+  111  cat datos_muestras.txt
+  112  head -n 5 datos_muestras.txt
+  113  tail -n 5 datos_muestras.txt 
+  114  head
+  115  head datos_muestras.txt 
+  116  wc -l
+  117  wc -l datos_muestras.txt 
+  118  grep 
+  119  grep -c control datos_muestras.txt 
+  120  grep Escherichia coli datos_muestras.txt 
+  121  grep saccharomyces_cerevisiae
+  122  grep saccharomyces_cerevisiae datos_muestras.txt 
+  123  grep Saccharomyces_cerevisiae datos_muestras.txt 
+  124  grep -c "^>" .fasta datos_muestras.txt 
+  125  grep -c "^>" archivo.fasta datos_muestras.txt 
+  126  grep -c "^>" secuencias_DNA.fasta datos_muestras.txt 
+  127  man mkdir
+  128  mkdir -p proyectobiotec temp_borrar
+  129  less
+  130  less proyectobiotec/
+  131  pwd
+  132  cd /home/fcb_alumno19/proyectobiotec/
+  133  mkdir -p proyectobiotec temp_borrar
+  134  less
+  135  less proyectobiotec/
+  136  mkdir -p temp_borrar proyectobiotec/
+  137  ls
+  138  touch proyectobiotec/temp_borrar/prueba.txt
+  139  touch /temp_borrar/prueba.txt
+  140  cd /home/fcb_alumno19/proyectobiotec/temp_borrar/
+  141  touch prueba.txt
+  142  ls
+  143  cd /home/fcb_alumno19/proyectobiotec/
+  144  rmdir temp_borrar/
+  145  rm -r temp_borrar/
+  146  history> scripts/historial_comandos_C.txt 

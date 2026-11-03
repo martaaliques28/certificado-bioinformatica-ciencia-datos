@@ -1,0 +1,15 @@
+Resumen de analisis - 2024
+---------------------------------
+
+Muestras revisadas por el equipo de control de calidad:
+
+- Lote A: revision completada, estado aprobado
+- Lote B: revision completada, estado aprobado
+- Lote C: pendiente de segunda revision
+- Lote D: revision completada, estado aprobado
+- Lote E: pendiente de segunda revision
+- Lote F: descartado por contaminacion
+
+Observacion general: la mayoria de los lotes revisados este análisis han
+quedado en estado aprobado, salvo los indicados como pendientes o
+descartados.

@@ -1,0 +1,5 @@
+el nucleo del sistema operativo que conecta el hardware con los programas. Se encarga de administrar de forma segura los recursos del ordenador, como la memoria, el procesador y el almacenamiento.
+
+La diferencia principal entre la Shell y la Terminal es que la terminal es donde escribes las ordenes y la shell es lo que interpreta los comando, procesando lo que escribes en la terminal
+
+Unix es la clave en bioinformatica ya que ofrece estabilidad en servidores de alto rendimiento, gran capacidad para procesar grandes volumenes de datos en segundo plano y herramientas potentes para automatizar tareas repetitivas mediantes scripts.

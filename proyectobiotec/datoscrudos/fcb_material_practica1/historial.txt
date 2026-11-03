@@ -1,0 +1,67 @@
+    1  whoami
+    2  pwd
+    3  ls
+    4  ls -l
+    5  ls -a
+    6  ls -lh
+    7  pwd
+    8  ls
+    9  cal
+   10  cal2008
+   11  cal 2008
+   12  cal 1870
+   13  man ls
+   14  clean
+   15  man ls
+   16  history
+   17  whoami
+   18  pwd
+   19  pwd$
+   20  pwd
+   21  4/
+   22  ~~/
+   23  /
+   24  ~/
+   25  ls
+   26  ~/
+   27  cd fcb_material_practica1/
+   28  ls
+   29  ls-lh
+   30  ls-l
+   31  ls
+   32  ls -lh
+   33  ls -a
+   34  man ls
+   35  ls -a
+   36  man ls
+   37  history
+   38  ls -l
+   39  ls -la
+   40  ls -lhS
+   41  cd analisis_previos/
+   42  ls -lhS
+   43  cd
+   44  cd fcb_material_practica1/
+   45  ls
+   46  less README.txt 
+   47  history
+   48  touch
+   49  man touch
+   50  cd fcb_material_practica1/
+   51  ls
+   52  pwd
+   53  /
+   54  whoami
+   55  pwd
+   56  ls -a
+   57  ls -lh
+   58  ls -lhS
+   59  less README.txt
+   60  man ls
+   61  ls -d
+   62  history
+   63  touch archivo.txt
+   64  cat archivo.txt
+   65  less archivo.txt 
+   66  touch archivo.txt
+   67  history> historial.txt
